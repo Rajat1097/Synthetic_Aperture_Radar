@@ -15,3 +15,6 @@
 #### 4) Terrain correction
 #### 5) Linear to Db conversion 
 #### 6) Clip to the area of interest (Change the co-ordinates according to your study area)
+
+### Graph.xml
+#### graph file where all the instructions for the preprocessing are saved. YOu can change it according to your requirements. An easy way to change is to prepare a file using SNAP software. You can even add a smoothening filter. 
